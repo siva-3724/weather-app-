@@ -8,3 +8,5 @@ Enter any city in the world to view current weather conditions
 - OpenWeatherMap API
 - HTML5 / CSS3 / JavaScript
   
+  ![Screenshot (51)](https://github.com/user-attachments/assets/d1060520-2867-426c-8421-21df53b32841)
+
